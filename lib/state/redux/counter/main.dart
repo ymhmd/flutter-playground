@@ -1,0 +1,2 @@
+enum CounterActions { inc, dec }
+
